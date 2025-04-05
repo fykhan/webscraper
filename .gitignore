@@ -3,3 +3,6 @@ images/
 scraped_images/
 .venv/
 env/
+image_metadata*
+image_links*
+category_counts.csv
