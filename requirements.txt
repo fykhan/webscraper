@@ -5,3 +5,5 @@ pandas
 selenium
 webdriver-manager
 pyarrow
+fireducks
+ipython

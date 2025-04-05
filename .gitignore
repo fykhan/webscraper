@@ -1,3 +1,5 @@
 trial/
 images/
 scraped_images/
+.venv/
+env/
